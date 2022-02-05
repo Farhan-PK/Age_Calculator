@@ -95,3 +95,14 @@ input[type="button"] {
     color: #1873d0;
     padding: 20px;
 }
+#author
+{
+    text-align: center;
+    font-size: 18px;
+    color: white;
+    padding: 20px;
+    font-weight: normal;
+    font-family: sans-serif;
+    background-color: #1873d0;
+
+}
